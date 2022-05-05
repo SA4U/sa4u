@@ -1,0 +1,35 @@
+[
+	{
+		"VariableName": "MavlinkTimesync::_time_offset",
+		"SemanticInfo": {
+			"Units": [
+				"us"
+			],
+			"CoordinateFrames": [
+				"GLOBAL"
+			]
+		}
+	},
+    	{
+		"VariableName": "sensor_gps_s::time_utc_usec",
+		"SemanticInfo": {
+			"Units": [
+				"us"
+			],
+			"CoordinateFrames": [
+				"GLOBAL"
+			]
+		}
+	},
+    	{
+		"VariableName": "optical_flow_s::integration_timespan",
+		"SemanticInfo": {
+			"Units": [
+				"us"
+			],
+			"CoordinateFrames": [
+				"GLOBAL"
+			]
+		}
+	}
+]
